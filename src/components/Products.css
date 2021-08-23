@@ -1,0 +1,26 @@
+.product {
+    padding: 1em;
+    margin: 1em;
+    max-width: 25%;
+    background: #ffffff;
+    border: 1px solid #2196f3;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.product img {
+    width: 75%;
+    margin: 0;
+    border: 1px solid #c9e1f1;
+    border-radius: 5px;
+}
+
+.price {
+    color: #357ebd;
+}
+
+  .btn-primary:hover {
+    color: #357ebd;
+    background-color: #fff;
+    border-color: #285e8e;
+  }
